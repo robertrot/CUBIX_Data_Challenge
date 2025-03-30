@@ -96,3 +96,9 @@ This project highlights the power of data-driven decision-making in the film ind
 This project contains various data analyses and visualizations.
 
 ## Diagrams
+
+### 3D Szoras diagram
+![3D Szorasdiagram](https://github.com/robertrot/CUBIX_Data_Challenge/blob/main/png/3D%20Szorasdiagram_Vizualizacio.png)
+
+### Top 3 Actors by Average Movie Rating
+![Top 3 Actors by Average Movie Rating]()
