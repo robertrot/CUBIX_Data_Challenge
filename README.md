@@ -6,7 +6,7 @@ This project is part of the CUBIX Data Challenge course.
 - https://cubixedu.com/kepzes/data-challenge-2025
 This project aims to analyze key factors that contribute to the success of films using real-world IMDB data and web scraping techniques. By leveraging statistical methods and visualization tools, we seek to uncover patterns in the film industry that can help predict box office success.
 
-Python 3.12.9 Jupyter Notebook Required libraries: pandas, numpy, matplotlib, etc.
+- Python 3.12.9 Jupyter Notebook Required libraries: pandas, numpy, matplotlib, etc.
 
 ## Tools & Technologies
 
