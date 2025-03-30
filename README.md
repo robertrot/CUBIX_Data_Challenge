@@ -91,3 +91,8 @@ jupyter notebook
 ## Conclusion
 
 This project highlights the power of data-driven decision-making in the film industry. By identifying influential factors such as production budget, lead actors, and directors, stakeholders can make informed choices to maximize a film’s success.
+
+## Overview
+This project contains various data analyses and visualizations.
+
+## Diagrams
