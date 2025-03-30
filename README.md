@@ -101,4 +101,7 @@ This project contains various data analyses and visualizations.
 ![3D Szorasdiagram](https://github.com/robertrot/CUBIX_Data_Challenge/blob/main/png/3D%20Szorasdiagram_Vizualizacio.png)
 
 ### Top 3 Actors by Average Movie Rating
-![Top 3 Actors by Average Movie Rating]()
+![Top 3 Actors by Average Movie Rating](https://github.com/robertrot/CUBIX_Data_Challenge/blob/main/png/Top%203%20Actors%20by%20Average%20Movie%20Rating.png)
+
+### Top 3 legjobb értékelésű filmek
+![Top 3 legjobb értékelésű filmek]()
