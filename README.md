@@ -104,4 +104,7 @@ This project contains various data analyses and visualizations.
 ![Top 3 Actors by Average Movie Rating](https://github.com/robertrot/CUBIX_Data_Challenge/blob/main/png/Top%203%20Actors%20by%20Average%20Movie%20Rating.png)
 
 ### Top 3 legjobb értékelésű filmek
-![Top 3 legjobb értékelésű filmek]()
+![Top 3 legjobb értékelésű filmek](https://github.com/robertrot/CUBIX_Data_Challenge/blob/main/png/Top%203%20legjobb%20%C3%A9rt%C3%A9kel%C3%A9s%C5%B1%20filmek.png)
+
+### Top 3 legjobb műfajok a box office bevételek alapján
+![Top 3 legjobb műfajok a box office bevételek alapján]()
