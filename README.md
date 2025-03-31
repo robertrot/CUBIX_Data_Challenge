@@ -95,6 +95,23 @@ jupyter notebook
 
 This project highlights the power of data-driven decision-making in the film industry. By identifying influential factors such as production budget, lead actors, and directors, stakeholders can make informed choices to maximize a film’s success.
 
+Behind every successful film, there is not only talent and creativity but also data and patterns. This project aims to uncover the key factors that determine a film's success and help filmmakers make data-driven decisions.
+
+## Key Factors to Determine:
+
+* Writer – The writer’s style and past works can influence both critical reception and audience appeal.
+
+* Director – A director’s reputation and track record play a significant role in a film’s marketability.
+
+* Top 3 Lead Actors – The star power of the main cast has a direct impact on box office performance.
+
+## Output:
+
+* Power BI Dashboard – Interactive visualizations and statistical insights on the characteristics of successful films.
+
+* AI-Generated Movie Poster – A visual representation of an ideal blockbuster based on data-driven insights.
+
+This project highlights the importance of data-driven decision-making in the film industry. By leveraging analytical insights, industry professionals can strategically plan productions and increase their chances of success.
 ## Overview
 This project contains various data analyses and visualizations.
 
