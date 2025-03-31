@@ -23,7 +23,8 @@ This project aims to analyze key factors that contribute to the success of films
 
 * Machine Learning: Predictive modeling and hypothesis testing
 
-
+* AI-Generated Graphics: Creating movie posters
+  
 
 ## Data Sources
 
