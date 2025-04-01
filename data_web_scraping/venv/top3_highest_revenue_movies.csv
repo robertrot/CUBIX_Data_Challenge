@@ -1,0 +1,4 @@
+film_id,imdb_id,title,duration_minutes,year_released,genres,popularity,average_rating,production_cost,box_office_revenue,actor1,actor2,actor3,director,writer,production_company
+19995,tt0499549,Avatar,162.0,2009,/ac//ad//fn//sc/,8.185185185185185,6.138211382113822,2370000000.0,2787965087,Sam Worthington,Zoe Saldana,Sigourney Weaver,James Cameron,James Cameron,Ingenious Film Partners
+140607,tt2488496,Star Wars: The Force Awakens,136.0,2015,/ac//ad//fn//sc/,8.185185185185185,6.138211382113822,2450000000.0,2068223624,Daisy Ridley,John Boyega,Adam Driver,JJ Abrams,Michael Arndt,Lucasfilm
+135397,tt0369610,Jurassic World,124.0,2015,/ac//ad//sc//th/,8.185185185185185,6.138211382113822,1500000000.0,1513528810,Chris Pratt,Bryce Dallas Howard,Irrfan Khan,Colin Trevorrow,Rick Jaffa,Universal Studios

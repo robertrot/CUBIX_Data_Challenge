@@ -1,0 +1,4 @@
+film_id,imdb_id,title,duration_minutes,year_released,genres,popularity,average_rating,production_cost,box_office_revenue,actor1,actor2,actor3,director,writer,production_company
+205596,tt2084970,The Imitation Game,113.0,2014,/dr//hi//th//wa/,8.185185185185185,8.0,140000000.0,233555708,Benedict Cumberbatch,Keira Knightley,Matthew Goode,Morten Tyldum,Graham Moore,Black Bear Pictures
+120467,tt2278388,The Grand Budapest Hotel,99.0,2014,/co//dr/,8.185185185185185,8.0,300000000.0,174600318,Ralph Fiennes,Tony Revolori,F Murray Abraham,Wes Anderson,Wes Anderson,Fox Searchlight Pictures
+334543,tt3741834,Lion,118.0,2016,/dr/,8.185185185185185,8.0,120000000.0,140302754,Sunny Pawar,Dev Patel,Rooney Mara,Garth Davis,Luke Davies,The Weinstein Company
