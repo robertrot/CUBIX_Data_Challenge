@@ -158,7 +158,8 @@ This project contains various data analyses and visualizations.
  ## Thank you for the opportunity to participate in the Cubix Data Challenge.
 
 ## Palakat Image
-![A NEW BEGINNING]()
+![A NEW BEGINNING](https://github.com/robertrot/CUBIX_Data_Challenge/blob/main/Cubix_Data_Challenge_plakat.png)
+
 ## Diagrams
 
 ### 3D Szoras diagram
