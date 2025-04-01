@@ -157,6 +157,8 @@ This project contains various data analyses and visualizations.
 
  ## Thank you for the opportunity to participate in the Cubix Data Challenge.
 
+## Palakat Image
+![A NEW BEGINNING]()
 ## Diagrams
 
 ### 3D Szoras diagram
