@@ -97,6 +97,43 @@ This project highlights the power of data-driven decision-making in the film ind
 
 Behind every successful film, there is not only talent and creativity but also data and patterns. This project aims to uncover the key factors that determine a film's success and help filmmakers make data-driven decisions.
 
+## Key Findings - Top 3 Writers
+
+* Title: "Top 3 Writers by Box Office Revenue"
+  
+* Content: Present the table with the data you processed. You can use bullet points to highlight the most important writers.
+  
+  * Top Writers:
+    
+    1. Graham Moore: $233,555,708
+    2. Wes Anderson: $174,600,318
+    3. Luke Davies: $140,302,754
+
+* You can add the "Top Writers" graphic, using visual elements for clarity (like bar charts or icons).
+  
+##  Key Findings - Top 3 Directors
+
+* Title: "Top 3 Directors by Box Office Revenue"
+  
+* Content:
+
+  * Top Directors:
+    1. Morten Tyldum: $233,555,708
+    2. Wes Anderson: $174,600,318
+    3. Garth Davis: $140,302,754
+
+## Key Findings - Top 3 Actors
+
+* Title: "Top 3 Actors by Average Rating"
+
+* Content:
+  
+  * Top Actors:
+      1. Benedict Cumberbatch: Rating = 8.0
+      2. Dev Patel: Rating = 8.0
+      3. F. Murray Abraham: Rating = 8.0
+         
+
 ## Key Factors to Determine:
 
 * Writer – The writer’s style and past works can influence both critical reception and audience appeal.
@@ -112,8 +149,13 @@ Behind every successful film, there is not only talent and creativity but also d
 * AI-Generated Movie Poster – A visual representation of an ideal blockbuster based on data-driven insights.
 
 This project highlights the importance of data-driven decision-making in the film industry. By leveraging analytical insights, industry professionals can strategically plan productions and increase their chances of success.
+
 ## Overview
 This project contains various data analyses and visualizations.
+
+## Acknowledgments & Thank You
+
+* Thank you for the opportunity to participate in the Cubix Data Challenge.
 
 ## Diagrams
 
