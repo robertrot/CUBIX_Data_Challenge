@@ -158,7 +158,7 @@ This project contains various data analyses and visualizations.
  ## Thank you for the opportunity to participate in the Cubix Data Challenge.
 
 ## Palakat Image
-![A NEW BEGINNING](https://github.com/robertrot/CUBIX_Data_Challenge/blob/main/Cubix_Data_Challenge_plakat.png)
+![A NEW BEGINNING](https://github.com/robertrot/CUBIX_Data_Challenge/blob/main/A%20New%20Beginning%20Plakat.png)
 
 ## Diagrams
 
