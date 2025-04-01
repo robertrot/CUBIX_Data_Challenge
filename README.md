@@ -105,9 +105,9 @@ Behind every successful film, there is not only talent and creativity but also d
   
   * Top Writers:
     
-    1. Graham Moore: $233,555,708
-    2. Wes Anderson: $174,600,318
-    3. Luke Davies: $140,302,754
+    - Graham Moore: $233,555,708
+    - Wes Anderson: $174,600,318
+    - Luke Davies: $140,302,754
 
 * You can add the "Top Writers" graphic, using visual elements for clarity (like bar charts or icons).
   
@@ -118,9 +118,9 @@ Behind every successful film, there is not only talent and creativity but also d
 * Content:
 
   * Top Directors:
-    1. Morten Tyldum: $233,555,708
-    2. Wes Anderson: $174,600,318
-    3. Garth Davis: $140,302,754
+    - Morten Tyldum: $233,555,708
+    - Wes Anderson: $174,600,318
+    - Garth Davis: $140,302,754
 
 ## Key Findings - Top 3 Actors
 
@@ -129,9 +129,9 @@ Behind every successful film, there is not only talent and creativity but also d
 * Content:
   
   * Top Actors:
-      1. Benedict Cumberbatch: Rating = 8.0
-      2. Dev Patel: Rating = 8.0
-      3. F. Murray Abraham: Rating = 8.0
+      - Benedict Cumberbatch: Rating = 8.0
+      - Dev Patel: Rating = 8.0
+      - F. Murray Abraham: Rating = 8.0
          
 
 ## Key Factors to Determine:
@@ -153,9 +153,9 @@ This project highlights the importance of data-driven decision-making in the fil
 ## Overview
 This project contains various data analyses and visualizations.
 
-## Acknowledgments & Thank You
+## Acknowledgments 
 
-* Thank you for the opportunity to participate in the Cubix Data Challenge.
+ ## Thank you for the opportunity to participate in the Cubix Data Challenge.
 
 ## Diagrams
 
